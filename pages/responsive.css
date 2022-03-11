@@ -1,0 +1,13 @@
+@media screen and (max-width: 917px){
+    section{
+        width: 95%;
+    }
+    nav ul li{
+        display: block;
+    }
+    nav ul{
+        text-align: center;
+        padding: 0;
+    }
+    
+}
